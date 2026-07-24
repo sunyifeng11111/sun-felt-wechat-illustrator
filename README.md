@@ -3,10 +3,10 @@
 <p align="center">
   <strong>把一篇中文公众号文章，做成一套真正帮助阅读的 3D 毛毡视觉。</strong>
 </p>
-
 <p align="center">
-  <img src="./readme/hero-v1.png" width="100%" alt="真实 3D 毛毡画面中，一双手把一张文章卡放入工作台，右侧形成头条封面、分享封面和正文配图三种成品板；标题为「一篇文章，一套视觉」。">
+  <img src="./examples/hero-v1.png" width="100%" alt="真实 3D 毛毡画面中，一双手把一张文章卡放入工作台，右侧形成头条封面、分享封面和正文配图三种成品板；标题为「一篇文章，一套视觉」。">
 </p>
+
 
 <p align="center">
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-17233d.svg" alt="MIT License"></a>
