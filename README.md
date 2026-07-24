@@ -110,3 +110,15 @@ felt-illustrations/<article-slug>/
 ## 许可证
 
 本项目采用 [MIT License](./LICENSE)。
+
+## 关于作者
+
+全网同名：**孙同学玩AI**
+
+| 平台 | 账号 |
+| --- | --- |
+| 抖音 | 孙同学玩AI |
+| 小红书 | 孙同学玩AI |
+| 视频号 | 孙同学玩AI |
+| X | 孙同学玩AI |
+| 公众号 | 孙同学玩AI |
